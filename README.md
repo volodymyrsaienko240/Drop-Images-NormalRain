@@ -6,12 +6,12 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/DropImagesNormalRain/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-15-3/DropImagesNormalRain/index.html
 
 ### }
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/jOBJpVL
+### https://codepen.io/volodymyrsaienko240/pen/jOBJpVL
 
 ### }
